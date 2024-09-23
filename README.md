@@ -1,5 +1,5 @@
 # WHR-Repository
-World Happiness Report Project
+<B>World Happiness Report Project</B>
 
 1. Intro
 The goal of this project is to estimate the happiness of countries around the world using socio-economic metrics such as gross domestic product (GDP), social support, healthy life expectancy, freedom to make life choices, generosity and perception of corruption. As well as to understand how this variables are correlated to each other to influence the the happiness ladder score and consequentially contribute to the happiness of the people in there countries.
