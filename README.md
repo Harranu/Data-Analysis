@@ -21,5 +21,5 @@ The outcome will help countries and policy makers determine the factors that inf
 (x12) whr_image003.png.
 
 3. How to
-Download all files in one directory. 
-Depending on which version of the source code you want to run, either way you need a python interpreter. Incase of streamlit version, you will need to install streamlit package. Read more on streamlit website on how to run a streamlit app. See this link for further instructions https://docs.streamlit.io/develop/concepts/architecture/run-your-app.
+3.1. Download all files in one directory. 
+3.2. Depending on which version of the source code you want to run, either way you need a python interpreter. Incase of streamlit version, you will need to install streamlit package. Read more on streamlit website on how to run a streamlit app. See this link for further instructions https://docs.streamlit.io/develop/concepts/architecture/run-your-app.
