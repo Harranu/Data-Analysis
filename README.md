@@ -23,3 +23,4 @@ The outcome will help countries and policy makers determine the factors that inf
 3. How to:
 - Download all files in one directory. 
 - Depending on which version of the source code you want to run, either way you need a python interpreter. Incase of streamlit version, you will need to install streamlit package. Read more on streamlit website on how to run a streamlit app. See this link for further instructions https://docs.streamlit.io/develop/concepts/architecture/run-your-app.
+- You may have to adjust the dataset (.csv) files directory accordingly depending on the platform you want to run the code, i.e on Desktop, Google Collab or other Notebooks
